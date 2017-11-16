@@ -1,0 +1,58 @@
+.main_header {
+  position: relative;
+  background-size: contain;
+}
+.dc1>p {
+  /*background-image: url("static/about-me.jpg");*/
+  /*background-repeat: no-repeat;*/
+  /*background-position: center;*/
+  /*background-blend-mode: normal;*/
+  /*opacity: 0.2;*/
+
+}
+.data-container .dc1>p {
+  padding: 2% 0 2% 0;
+  font-size: larger;
+  font-weight: bold;
+}
+.icon>a>img {
+height: 30%;
+width: 30%;
+padding: 0 0 0 0;
+}
+.dc {
+  padding-top: 70px;
+}
+.dc>h2 {
+  text-align: center;
+  padding: 20px 0 20px 0;
+}
+.dcc {
+  /*background-color: #aaaaaa;*/
+}
+.dcc>h3 {
+  text-align: center;
+}
+.dcskills>button {
+  padding: 10px 10px 10px 10px;
+  margin: 2%;
+  background-color: #19334d;
+}
+.bc-img {
+  background-image: url("banner.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+    /*max-width: 100%;*/
+    /*height: auto;*/
+}
+.social>a>span {
+    text-align: center;
+    background-color: black;
+    color: white;
+    max-width: 100%;
+    height: auto;
+    /*border-radius: 50%;*/
+    padding: 2%;
+    margin-top: 1%;
+}
