@@ -1,6 +1,13 @@
 .main_header {
   position: relative;
   background-size: contain;
+  background-color: transparent;
+}
+.main_header>h1 {
+    color: white;
+}
+.main_header>p {
+    color: white;
 }
 .dc1>p {
   /*background-image: url("static/about-me.jpg");*/
